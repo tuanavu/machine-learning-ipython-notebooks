@@ -9,7 +9,8 @@ I made an index of functions defined in the book, by each chapter.
 
 1. Machine Learning - Giving Computers the Ability to Learn from Data [[dir](./code/ch01)] [[ipynb](./code/ch01/ch01.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb)]
 2. Training Machine Learning Algorithms for Classification [[dir](./code/ch02)] [[ipynb](./code/ch02/ch02.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch02/ch02.ipynb)]
-	- perceptron 
+	- Perceptron
+	- Adaptive Linear Neuron
 3. A Tour of Machine Learning Classifiers Using Scikit-Learn [[dir](./code/ch03)] [[ipynb](./code/ch03/ch03.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch03/ch03.ipynb)]
 4. Building Good Training Sets – Data Pre-Processing [[dir](./code/ch04)] [[ipynb](./code/ch04/ch04.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch04/ch04.ipynb)]
 5. Compressing Data via Dimensionality Reduction [[dir](./code/ch05)] [[ipynb](./code/ch05/ch05.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch05/ch05.ipynb)]

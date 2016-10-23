@@ -157,15 +157,15 @@ def train_adaline_sgd(X_std, y):
 def main():
 	X,y = load_data()
 
-	# plot_iris_data(X, y)
+	plot_iris_data(X, y)
 
-	# # Perceptron
-	# train_perceptron(X, y)
+	# Perceptron
+	train_perceptron(X, y)
 
-	# # Adaline with Gradient Descent
-	# train_adaline_raw(X, y)
+	# Adaline with Gradient Descent
+	train_adaline_raw(X, y)
 	X_std = standardize_features(X)
-	# train_adaline(X_std, y)
+	train_adaline(X_std, y)
 
 	# Adaline with Stochastic Gradient Descent
 	train_adaline_sgd(X_std, y)
