@@ -26,6 +26,15 @@ These notebooks are derived from [learningtensorflow](http://learningtensorflow.
 | [tensorflow-iteration](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/4_Iteration.ipynb) | Iteration in TensorFlow. |
 | [tensorflow-clustering](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/5_clustering.ipynb) | Implement K-mean cluster in TensorFlow. |
 
+### tensor-flow-intro
+
+These notebooks are derived from [pythonprogramming.net](https://pythonprogramming.net/tensorflow-deep-neural-network-machine-learning-tutorial/?completed=/tensorflow-introduction-machine-learning-tutorial/)
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [tensorflow-intro](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/pythonprogramming/1-tensorflow-intro.ipynb) | Introduction to Tensorflow |
+| [neural-network](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/pythonprogramming/2-neural-network.ipynb) | Deep Learning with TensorFlow - Creating the Neural Network Model |
+
 ## LICENSE
 
 This repository contains a variety of content; some developed by Tuan Vu, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
