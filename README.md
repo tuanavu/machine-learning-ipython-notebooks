@@ -35,6 +35,14 @@ These notebooks are derived from [pythonprogramming.net](https://pythonprogrammi
 | [tensorflow-intro](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/pythonprogramming/1-tensorflow-intro.ipynb) | Introduction to Tensorflow |
 | [neural-network](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/pythonprogramming/2-neural-network.ipynb) | Deep Learning with TensorFlow - Creating the Neural Network Model |
 
+### keras-tutorials
+
+These notebooks are derived from [machinelearningmastery.com](http://machinelearningmastery.com/)
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [neural_network](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/keras-tutorials/1_neural_network.ipynb) | First Neural Network in Python With Keras |
+
 ## LICENSE
 
 This repository contains a variety of content; some developed by Tuan Vu, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
