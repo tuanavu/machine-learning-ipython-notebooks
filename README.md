@@ -43,6 +43,16 @@ These notebooks are derived from [machinelearningmastery.com](http://machinelear
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [neural_network](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/keras-tutorials/1_neural_network.ipynb) | First Neural Network in Python With Keras |
 
+### deep-learning-notes
+
+These notebooks are derived from [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/learn/v4/content)
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [01.Regression & Classification Intuition](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/notes/01-Regression-Classification-Intuition) | Regression & Classification Intuition |
+| [02.ANN Intuition](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/notes/02-ANN-Intuition.ipynb) | Artificial Neural Networks Intuition |
+| [03.Building an ANN](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/notes/03-Building-an-ANN) | Building an Artificial Neural Network |
+
 ## LICENSE
 
 This repository contains a variety of content; some developed by Tuan Vu, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
