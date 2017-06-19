@@ -49,9 +49,9 @@ These notebooks are derived from [Deep Learning A-Z™: Hands-On Artificial Neur
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [01.Regression & Classification Intuition](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/notes/01-Regression-Classification-Intuition) | Regression & Classification Intuition |
+| [01.Regression & Classification Intuition](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/notes/01-Regression-Classification-Intuition.ipynb) | Regression & Classification Intuition |
 | [02.ANN Intuition](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/notes/02-ANN-Intuition.ipynb) | Artificial Neural Networks Intuition |
-| [03.Building an ANN](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/notes/03-Building-an-ANN) | Building an Artificial Neural Network |
+| [03.Building an ANN](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/notes/03-Building-an-ANN.ipynb	) | Building an Artificial Neural Network |
 
 ## LICENSE
 
